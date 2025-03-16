@@ -28,14 +28,10 @@ A estrutura do projeto é simples e direta:
 
 ```
 /amigo-secreto/
-├── index.html       # Página principal com o formulário e lista de amigos
-├── style.css        # Estilos básicos para a interface
-└── script.js        # Lógica de JavaScript para manipulação da lista e sorteio
+── index.html       # Página principal com o formulário e lista de amigos
+── style.css        # Estilos básicos para a interface
+── script.js        # Lógica de JavaScript para manipulação da lista e sorteio
 ```
-
-### Dependências
-Este projeto não possui dependências externas. A única biblioteca utilizada é o JavaScript nativo.
-
 ## Tecnologias Utilizadas
 
 - **HTML**: Estrutura da página e campos de entrada.
@@ -51,10 +47,4 @@ Este projeto não possui dependências externas. A única biblioteca utilizada �
 
 2. Abra o arquivo `index.html` em seu navegador para começar a usar a aplicação.
 
-## Contribuições
 
-Sinta-se à vontade para abrir *issues* e enviar *pull requests* para melhorias ou correções de bugs.
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
